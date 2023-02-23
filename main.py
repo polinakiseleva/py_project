@@ -1,3 +1,4 @@
-from funcs.py import addition
+from funcs.py import addition, subtraction
 
 addition()
+subtraction()
